@@ -1,0 +1,8 @@
+{
+  "bewisclient.notes_and_tasks.global": "Global Notes and Tasks",
+  "bewisclient.notes_and_tasks.local": "Local Notes and Tasks",
+  "bewisclient.notes_and_tasks.description.global": "Globally saved and editable Notes and Tasks",
+  "bewisclient.notes_and_tasks.description.local": "Locally saved and editable Notes and Tasks",
+  "bewisclient.notes_and_tasks.local_global_info": "Global Notes and Tasks are saved in the minecraft folder and usable from every world. Local Notes and Tasks are saved in the world folder and can only be accessed from this world/server",
+  "bewisclient.notes_and_tasks.notes.placeholder": "Write your notes here..."
+}
